@@ -13,6 +13,7 @@ soulevés. Chaque ligne de l’affichage contient :
 - [Le prénom de l’Alèthe]
 - [Son pays]
 - [Le poids soulevé (ou la mise à jour du poids soulevé)]
+
 Un maximum de cinq athlètes participe à chaque compétition. Chaque athlète a
 droit à trois essais. Pour le résultat final, on prend en considération le meilleur
 poids soulevé par chaque athlète. Le résultat final devrait être enregistré dans
