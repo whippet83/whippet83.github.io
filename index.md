@@ -3,8 +3,10 @@
 ---
 ## AEC Programmation orienté objet et Technologie Web
 ### Projet d'école 
+---
+
 #### Projet C# Haltérophilie 
-On veut créer un programme C# dans un environnement graphique qui permet
+Ce projet consistait de faire un programme C# dans un environnement graphique qui permet
 d’afficher en temps réel le classement d’athlètes participant à une compétition
 d’haltérophilie. Le programme doit afficher la liste des athlètes selon les poids
 soulevés. Chaque ligne de l’affichage contient :
@@ -34,8 +36,14 @@ L'affichage des athlètes selon les meilleur poids soulevés sinon seleon leur p
 <img src="images/HalterofiliePhoto/5_AfficherAthlete.JPG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+#### Projet HTML, CSS Belle Maison
+Ce projet consistait de faire un site web qui présente toutes les propriétés à vendre ou à 
+louer par les courtiers immobiliers.
+
+[Projet sur Github](https://github.com/whippet83/Projets/tree/main/BelleMaison_siteWeb)
+
+<img src="images/projetPhoto/siteWeb.JPG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
