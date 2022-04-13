@@ -23,7 +23,7 @@ une base de données.
 
 Le login de l'application
 
-<img src="images/HalterofiliePhoto/1_Login.jpg?raw=true"/>
+<img src="images/HalterofiliePhoto/1_Login.JPG?raw=true"/>
 
 La page pour ajouter un athlète
 
