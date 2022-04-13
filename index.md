@@ -27,11 +27,11 @@ Le login de l'application
 
 La page pour ajouter un athlète
 
-<img src="images/HalterofiliePhoto/2_AjouterAthlete.jpg?raw=true"/>
+<img src="images/HalterofiliePhoto/2_AjouterAthlete.JPG?raw=true"/>
 
 L'affichage des athlètes selon les meilleur poids soulevés sinon seleon leur prénom
 
-<img src="images/HalterofiliePhoto/5_AfficherAthlete.jpg?raw=true"/>
+<img src="images/HalterofiliePhoto/5_AfficherAthlete.JPG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
