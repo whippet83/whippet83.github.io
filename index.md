@@ -18,13 +18,19 @@ Un maximum de cinq athlètes participe à chaque compétition. Chaque athlète a
 droit à trois essais. Pour le résultat final, on prend en considération le meilleur
 poids soulevé par chaque athlète. Le résultat final devrait être enregistré dans
 une base de données.
+
 [Projet sur Github](https://github.com/whippet83/Projets/tree/main/Halterofilie_Csharp)
 
 Le login de l'application
+
 <img src="E:\CRosemont\Portfolio\School\Halterofilie_Csharp\projetPhoto\1_Login.jpg?raw=true"/>
+
 La page pour ajouter un athlète
+
 <img src="E:\CRosemont\Portfolio\School\Halterofilie_Csharp\projetPhoto\2_AjouterAthlete.jpg?raw=true"/>
+
 L'affichage des athlètes selon les meilleur poids soulevés sinon seleon leur prénom
+
 <img src="E:\CRosemont\Portfolio\School\Halterofilie_Csharp\projetPhoto\3_AfficherAthlete.jpg?raw=true"/>
 
 ---
