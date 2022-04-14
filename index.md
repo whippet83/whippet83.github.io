@@ -52,6 +52,7 @@ Ce projet consistait de développer un programme Java tout temps respectant les 
 Le but du programme était la gestion d'un casino en ligne illégal.
 
 [Projet sur Github](https://github.com/whippet83/Projets/tree/main/Casino_Java)
+
 ---
 
 ### Projet Personnel
