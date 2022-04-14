@@ -10,11 +10,11 @@ Ce projet consistait de développer un programme C# dans un environnement graphi
 d’afficher en temps réel le classement d’athlètes participant à une compétition
 d’haltérophilie. Le programme doit afficher la liste des athlètes selon les poids
 soulevés. Chaque ligne de l’affichage contient :
-- [Un identifiant unique de l’Alèthe]
-- [Le nom de l’Alèthe]
-- [Le prénom de l’Alèthe]
-- [Son pays]
-- [Le poids soulevé (ou la mise à jour du poids soulevé)]
+- Un identifiant unique de l’Alèthe
+- Le nom de l’Alèthe
+- Le prénom de l’Alèthe
+- Son pays
+- Le poids soulevé (ou la mise à jour du poids soulevé)
 
 Un maximum de cinq athlètes participe à chaque compétition. Chaque athlète a
 droit à trois essais. Pour le résultat final, on prend en considération le meilleur
