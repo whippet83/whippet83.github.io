@@ -23,7 +23,7 @@ une base de données.
 
 [Projet sur Github](https://github.com/whippet83/Projets/tree/main/Halterofilie_Csharp)
 
-Le login de l'application
+La page de connexion de l'application
 
 <img src="images/HalterofiliePhoto/1_Login.JPG?raw=true"/>
 
