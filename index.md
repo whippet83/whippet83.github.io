@@ -48,7 +48,8 @@ louer par les courtiers immobiliers.
 ---
 
 #### Projet Java Casino (Console)
-Ce projet consistait de développer un programme Java tout temps respectant les concepts la POO.
+Ce projet consistait de développer un programme Java 
+tout temps respectant les concepts la POO.
 Le but du programme était la gestion d'un casino en ligne illégal.
 
 [Projet sur Github](https://github.com/whippet83/Projets/tree/main/Casino_Java)
@@ -58,7 +59,8 @@ Le but du programme était la gestion d'un casino en ligne illégal.
 ### Projet Personnel
 ---
 #### Projet C# Calculatrice
-Ce projet consistait d'essayer de récréer la calculatrice vertical d'un iphone 11
+Ce projet consistait d'essayer de récréer la calculatrice vertical 
+d'un iphone 11
 
 [Projet sur Github](https://github.com/whippet83/Projets/tree/main/Calculatrice_Csharp)
 
