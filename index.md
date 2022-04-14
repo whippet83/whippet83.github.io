@@ -31,7 +31,7 @@ La page pour ajouter un athlète
 
 <img src="images/HalterofiliePhoto/2_AjouterAthlete.JPG?raw=true"/>
 
-L'affichage des athlètes selon les meilleur poids soulevés sinon seleon leur prénom
+L'affichage des athlètes selon les meilleur poids soulevés sinon selon leur prénom
 
 <img src="images/HalterofiliePhoto/5_AfficherAthlete.JPG?raw=true"/>
 
