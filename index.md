@@ -6,7 +6,7 @@
 ---
 
 #### Projet C# Haltérophilie 
-Ce projet consistait de faire un programme C# dans un environnement graphique qui permet
+Ce projet consistait de développer un programme C# dans un environnement graphique qui permet
 d’afficher en temps réel le classement d’athlètes participant à une compétition
 d’haltérophilie. Le programme doit afficher la liste des athlètes selon les poids
 soulevés. Chaque ligne de l’affichage contient :
@@ -38,7 +38,7 @@ L'affichage des athlètes selon les meilleur poids soulevés sinon seleon leur p
 ---
 
 #### Projet HTML, CSS Belle Maison
-Ce projet consistait de faire un site web qui présente toutes les propriétés à vendre ou à 
+Ce projet consistait de développer un site web qui présente toutes les propriétés à vendre ou à 
 louer par les courtiers immobiliers.
 
 [Projet sur Github](https://github.com/whippet83/Projets/tree/main/BelleMaison_siteWeb)
@@ -46,19 +46,22 @@ louer par les courtiers immobiliers.
 <img src="images/projetPhoto/siteWeb.JPG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+#### Projet Java Casino (Console)
+Ce projet consistait de développer un programme Java tout temps respectant les concepts la POO.
+Le but du programme était la gestion d'un casino en ligne illégal.
+
+[Projet sur Github](https://github.com/whippet83/Projets/tree/main/Casino_Java)
 ---
 
-### Category Name 2
+### Projet Personnel
+---
+#### Projet C# Calculatrice
+Ce projet consistait d'essayer de récréer la calculatrice vertical d'un iphone 11
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Projet sur Github](https://github.com/whippet83/Projets/tree/main/Calculatrice_Csharp)
 
+<img src="images/projetPhoto/calculatrice.JPG?raw=true"/>
 ---
 
 
