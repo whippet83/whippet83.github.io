@@ -67,7 +67,7 @@ Dans les 2 sujet donnés pour le projet nous avons choisient le sujet 1, qui est
 
 [Projet sur Github](https://github.com/RhinoSideShow/projet_integration/tree/Production/projetgo)
 
-[Mon journal de bord au long du projet](https://github.com/RhinoSideShow/projet_integration/blob/Production/Documentation/JournalDeBordPersonel/Nicolas/journal_de_bord_Nicolas.md)
+[Mon journal de bord du projet](https://github.com/RhinoSideShow/projet_integration/blob/Production/Documentation/JournalDeBordPersonel/Nicolas/journal_de_bord_Nicolas.md)
 
 ### Projet Personnel
 ---
