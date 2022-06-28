@@ -65,9 +65,13 @@ avec la méthode Scrum.
 
 Dans les 2 sujet donnés pour le projet nous avons choisient le sujet 1, qui est de faire une application web pour le client ProjetGo qui est un organisme à but non lucratif qui aide les communautés à monter des projets collectifs au Québec, ailleurs au Canada et à l’étranger. (Faire une application web comme GoFundMe)
 
-Résultat final qunad membre est connecter
+Page principale quand un membre est connecter
 
 <img src="images/final.JPG?raw=true"/>
+
+Page des informations d'un projet
+
+<img src="images/final2.JPG?raw=true"/>
 
 
 [Projet sur Github](https://github.com/RhinoSideShow/projet_integration/tree/Production/projetgo)
