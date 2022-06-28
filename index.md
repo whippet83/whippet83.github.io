@@ -65,7 +65,7 @@ avec la méthode Scrum.
 
 Dans les 2 sujet donnés pour le projet nous avons choisient le sujet 1, qui est de faire une application web pour le client ProjetGo qui est un organisme à but non lucratif qui aide les communautés à monter des projets collectifs au Québec, ailleurs au Canada et à l’étranger. (Faire une application web comme GoFundMe)
 
-[Projet sur Github]([https://github.com/whippet83/Projets/tree/main/Casino_Java](https://github.com/RhinoSideShow/projet_integration/tree/Production/projetgo)
+[Projet sur Github](https://github.com/RhinoSideShow/projet_integration/tree/Production/projetgo)
 
 [Mon journal de bord au long du projet](https://github.com/RhinoSideShow/projet_integration/blob/Production/Documentation/JournalDeBordPersonel/Nicolas/journal_de_bord_Nicolas.md)
 
