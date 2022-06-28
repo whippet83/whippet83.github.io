@@ -65,6 +65,14 @@ avec la méthode Scrum.
 
 Dans les 2 sujet donnés pour le projet nous avons choisient le sujet 1, qui est de faire une application web pour le client ProjetGo qui est un organisme à but non lucratif qui aide les communautés à monter des projets collectifs au Québec, ailleurs au Canada et à l’étranger. (Faire une application web comme GoFundMe)
 
+Pour ouvrir notre projet puisque nous n'avons pas eu le temps de déployer notre projet en ligne. Vous devez l'ouvrir avec VisualCode. Dans le terminal vous devez passer les commandes suivantes et dans cet ordre.
+
+cd projetgo
+npm install
+npm run dev
+
+---
+
 Page principale quand un membre est connecter
 
 <img src="images/final.JPG?raw=true"/>
@@ -78,7 +86,10 @@ Page des informations d'un projet
 
 [Mon journal de bord du projet](https://github.com/RhinoSideShow/projet_integration/blob/Production/Documentation/JournalDeBordPersonel/Nicolas/journal_de_bord_Nicolas.md)
 
+---
+
 ### Projet Personnel
+
 ---
 #### Projet C# Calculatrice
 Ce projet consistait d'essayer de récréer la calculatrice vertical 
