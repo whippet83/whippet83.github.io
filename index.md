@@ -92,7 +92,7 @@ Page des informations d'un projet
 
 ---
 #### Projet C# Calculatrice
-Ce projet consistait d'essayer de récréer la calculatrice vertical 
+Ce projet consistait d'essayer de récréer la calculatrice vertical et ces fonctionalitées
 d'un iphone 11
 
 [Projet sur Github](https://github.com/whippet83/Projets/tree/main/Calculatrice_Csharp)
