@@ -56,7 +56,7 @@ Le but du programme était la gestion d'un casino en ligne illégal.
 
 --- 
 
-#### Projet Final 
+#### Projet Final (Next.js et Mongodb)
 Ce projet consistait de développer une application du début à la fin, soit la rencontre client
 à la livraison de l'application et au support technique.
 
