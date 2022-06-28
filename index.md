@@ -67,9 +67,9 @@ Dans les 2 sujet donnés pour le projet nous avons choisient le sujet 1, qui est
 
 Pour ouvrir notre projet puisque nous n'avons pas eu le temps de déployer notre projet en ligne. Vous devez l'ouvrir avec VisualCode. Dans le terminal vous devez passer les commandes suivantes et dans cet ordre.
 
-cd projetgo
-npm install
-npm run dev
+- cd projetgo
+- npm install
+- npm run dev
 
 ---
 
@@ -98,6 +98,7 @@ d'un iphone 11
 [Projet sur Github](https://github.com/whippet83/Projets/tree/main/Calculatrice_Csharp)
 
 <img src="images/projetPhoto/calculatrice.JPG?raw=true"/>
+
 ---
 
 
