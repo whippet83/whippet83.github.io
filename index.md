@@ -21,8 +21,6 @@ droit à trois essais. Pour le résultat final, on prend en considération le me
 poids soulevé par chaque athlète. Le résultat final devrait être enregistré dans
 une base de données.
 
-[Projet sur Github](https://github.com/whippet83/Projets/tree/main/Halterofilie_Csharp)
-
 La page de connexion de l'application
 
 <img src="images/HalterofiliePhoto/1_Login.JPG?raw=true"/>
@@ -35,15 +33,17 @@ L'affichage des athlètes selon les meilleur poids soulevés sinon selon leur pr
 
 <img src="images/HalterofiliePhoto/5_AfficherAthlete.JPG?raw=true"/>
 
+[Projet sur Github](https://github.com/whippet83/Projets/tree/main/Halterofilie_Csharp)
+
 ---
 
 #### Projet HTML, CSS Belle Maison
 Ce projet consistait de développer un site web qui présente toutes les propriétés à vendre ou à 
 louer par les courtiers immobiliers.
 
-[Projet sur Github](https://github.com/whippet83/Projets/tree/main/BelleMaison_siteWeb)
-
 <img src="images/projetPhoto/siteWeb.JPG?raw=true"/>
+
+[Projet sur Github](https://github.com/whippet83/Projets/tree/main/BelleMaison_siteWeb)
 
 ---
 
