@@ -54,7 +54,19 @@ Le but du programme était la gestion d'un casino en ligne illégal.
 
 [Projet sur Github](https://github.com/whippet83/Projets/tree/main/Casino_Java)
 
----
+--- 
+
+#### Projet Final 
+Ce projet consistait de développer une application du début à la fin, soit la rencontre client
+à la livraison de l'application et au support technique.
+
+Le projet c'est fait en équipes de 6. Il fallait obligatoirement utiliser Git et GitHub et aussi d'utiliser la méthodologie Agile
+avec la méthode Scrum.
+
+Dans les 2 sujet donnés pour le projet nous avons choisient le sujet 1, qui est de faire une application web pour le client ProjetGo qui est un organisme à but non lucratif qui aide les communautés à monter des projets collectifs au Québec, ailleurs au Canada et à l’étranger. (Faire une application web comme GoFundMe)
+
+[Projet sur Github]([https://github.com/whippet83/Projets/tree/main/Casino_Java](https://github.com/RhinoSideShow/projet_integration/tree/Production/projetgo))
+[Mon journal de bord au long du projet](https://github.com/RhinoSideShow/projet_integration/blob/Production/Documentation/JournalDeBordPersonel/Nicolas/journal_de_bord_Nicolas.md)
 
 ### Projet Personnel
 ---
